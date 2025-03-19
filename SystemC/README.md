@@ -1,2 +1,2 @@
-# Embedded-Systems_Labs
- Computer exercises of Embeddded Systems course at FAU
+# Lab-1
+ Implementation of Software and Hardware Numerical approximation of Differential Equations using SystemC
